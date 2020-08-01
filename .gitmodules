@@ -2,3 +2,7 @@
 	path = openptv
 	url = https://github.com/openptv/openptv
 	branch = master
+[submodule "openptv-python"]
+	path = openptv-python
+	url = https://github.com/openptv/openptv-python
+	branch = master
